@@ -12,7 +12,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Polyglot Developer In the US.
 
@@ -21,7 +21,7 @@ I am a Polyglot Developer In the US.
 - :zap: In my free time, I solve problems on various scripting fourms for fun.
 
 
-### :woman_technologist: Coding languages I specialize in :
+### :man_technologist: Coding languages I specialize in :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
