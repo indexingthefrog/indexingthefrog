@@ -14,12 +14,10 @@
 
 ### :woman_technologist: About Me :
 
-I am a Polyglot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> In the US.
+I am a Polyglot Developer In the US.
 
 - :telescope: I code in 4 different coding languages for fun 
-- 
 - :seedling: Exploring Technical Content.
-
 - :zap: In my free time, I solve problems on various scripting fourms for fun.
 
 
