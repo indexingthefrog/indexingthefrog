@@ -20,6 +20,7 @@ I am a Polyglot Developer In the US.
 - :seedling: Exploring Technical Content.
 - :zap: In my free time, I solve problems on various scripting fourms for fun.
 
+---
 
 ### :man_technologist: Coding languages I specialize in :
 <div>
