@@ -27,6 +27,7 @@ I am a Polyglot Developer In the US.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/indexingthefrog/icons/blob/main/download.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
 </div>
 
 ---
